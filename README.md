@@ -1,5 +1,5 @@
 # feup-sdis
-FEUP - Distributed Systems Projec  
+FEUP - Distributed Systems Project
   
 UmaFrancesinha is a distributed systems project with the ultimate goal to rate and check the better restaurants to eat a Francesinha, one of Porto's traditional dishes.  
   
